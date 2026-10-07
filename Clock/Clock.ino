@@ -6,8 +6,8 @@
 #include <time.h>
 
 // WLAN-Daten eintragen
-const char* WLAN_NAME = "RamRanch";
-const char* WLAN_PASSWORT = "18Cowboycocks";
+const char* WLAN_NAME = [WiFi Name];
+const char* WLAN_PASSWORT = [WiFi Password];
 
 // LCD-Anschlüsse:
 // RS, E, D4, D5, D6, D7
